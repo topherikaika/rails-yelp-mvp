@@ -1,3 +1,6 @@
+#SIMPLE FORM
+gem "simple_form", github: "heartcombo/simple_form"
+
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
